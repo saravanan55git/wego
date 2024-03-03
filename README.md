@@ -8,7 +8,9 @@ IAM user : demo-user
 
 IAM Pass : Password@123
 
-you can access the fortune api application via :  http://52.91.91.19:8080/
+you can access the fortune api application via below ip url :
+
+                                                  http://52.91.91.19:8080/
 
                                                   http://52.91.91.19:8080/healthcheck
 

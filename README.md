@@ -8,7 +8,7 @@ IAM user : demo-user
 
 IAM Pass : Password@123
 
-you can access the fortune api application via below ip url :
+you can access the fortune api application via below Api endpoint url :
 
                                                   http://52.91.91.19:8080/
 

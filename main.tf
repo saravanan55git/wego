@@ -1,6 +1,6 @@
 # Create an ECS cluster
 resource "aws_ecs_cluster" "my_cluster" {
-  name = "my-cluster"
+  name = "demo-project"
 }
 
 # Define a task definition
@@ -93,7 +93,7 @@ resource "aws_security_group" "ecs_sg" {
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-
+ 
   egress {
     from_port   = 0
     to_port     = 0

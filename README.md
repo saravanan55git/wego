@@ -10,11 +10,11 @@ IAM Pass : Password@123
 
 you can access the fortune api application via below Api endpoint url :
 
-                                                  http://52.91.91.19:8080/
+                                                  http://3.81.224.28:8080/
 
-                                                  http://52.91.91.19:8080/healthcheck
+                                                  http://3.81.224.28:8080/healthcheck
 
-                                                  http://52.91.91.19:8080/v1/fortune
+                                                  http://3.81.224.28:8080/v1/fortune
 **Docker image Build**
 
 step 1: Cloned the code https://github.com/wego/devops-fortune-api/tree/main/api  to my local
